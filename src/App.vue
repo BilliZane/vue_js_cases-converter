@@ -10,7 +10,7 @@
       <div class="forms-content">
         <div class="forms-content__title">
           <span>Конвертер регистров</span> - простой инструмент, который поможет
-          Вам избавиться от рутинной работы и сэкономить вемя.
+          Вам избавиться от рутинной работы и сэкономить время.
         </div>
         <div class="forms-content__forms-wrap">
           <textarea

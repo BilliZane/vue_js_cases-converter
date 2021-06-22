@@ -100,7 +100,6 @@ body {
 
 .buttons {
   margin-top: $mainIndent;
-  outline: none;
   &__btn {
     padding: 8px 15px;
     margin: 0 10px 10px 0;
@@ -123,12 +122,14 @@ body {
     &:hover {
       background-color: $mainColor;
       color: $whiteColor;
+      outline: none;
       cursor: pointer;
     }
 
     &:active {
       color: $whiteColor;
       background-color: $dark;
+      outline: none;
     }
   }
   &__last-btn {

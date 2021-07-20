@@ -1,5 +1,11 @@
-# Register Converter #
+# Registry Converter #
 
-This register converter was created using html, css, JavaScript and Vue.js 3.
+### Technology Stack: ###
 
-[DEMO LINK](https://billizane.github.io/vue_js_cases-converter/)
+* HTML;
+* CSS;
+* SASS;
+* JavaScript;
+* Vue.JS 3.
+
+[DEMO LINK](https://billizane.github.io/vue_js_registry_converter/)
